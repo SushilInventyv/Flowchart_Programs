@@ -17,17 +17,21 @@ public class MaxFourVar {
                 else {
                     System.out.println(w);
                 }
-            } else if (z>=w) {
-                System.out.println(z);
+            }
+        }
+        else if(y>=z){
+            if(y>=w){
+                System.out.print(y);
             }
             else{
-                System.out.println(w);
+                System.out.print(w);
             }
-        } else if (y>=z) {
-            if (y>=w) {
-
-            }
-
+        } else if (z>=w) {
+            System.out.print(z);
         }
+        else{
+            System.out.print(w);
+        }
+
     }
 }

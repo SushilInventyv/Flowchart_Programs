@@ -9,10 +9,10 @@ public class pattern {
         for (i = 1; i <= n; i++) {
             
             for (j=i; j <= (2*i)-1; j++) {
-                System.out.print(j + " ");
+                System.out.print((j%10) + " ");
             }
             for (j = j-2; j >= i; j--) {
-                System.out.print(j + " ");
+                System.out.print((j%10) + " ");
             }
             System.out.println();
         }

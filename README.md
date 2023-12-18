@@ -1,2 +1,2 @@
 # Training_Inventyv
-Program codes of the flowcharts
+All assignments and practice work.

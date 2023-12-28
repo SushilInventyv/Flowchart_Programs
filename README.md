@@ -27,7 +27,7 @@ During this training phase, I undertook various tasks and assignments to enhance
     3. Create a custom promise that contains an array called "img". If the sum in the second function is greater than 30, then the promise should fetch the images equal to the sum and it should be displayed in the browser.
 - Folder Name: Assignment1
 
-### Task 4: Javascript Practice Problems
+### Task 4: Javascript Recursion Practice Problems
 - Objective: This task consists of 3 programs:
     1. Calculate nCr using recursion: main -> comb -> fact
     2. Store and display all elements of an array using recursion.

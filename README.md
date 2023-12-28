@@ -2,8 +2,8 @@
 Welcome to the repository documenting my training phase. This repository serves as a record of the tasks and assignments I completed during my training phase.
 
 ## Table of Contents
-1. # Overview
-2. # Tasks
+1. Overview
+2. Tasks
 
 ## Overview
 During this training phase, I undertook various tasks and assignments to enhance my skills and knowledge. This repository serves as a comprehensive log of the work accomplished, providing a reference for my progress and achievements.

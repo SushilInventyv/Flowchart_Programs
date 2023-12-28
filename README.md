@@ -18,18 +18,21 @@ During this training phase, I undertook various tasks and assignments to enhance
 - Objective: Developed and designed a static Login Page using HTML and CSS only.
 - The design of the page is attached below:
     ![image](https://github.com/SushilInventyv/Training_Inventyv/assets/153286178/df484dd5-4b4e-423e-ac0b-6f35005d7f98)
+- Folder name: HTML
 
 ### Task 3: JavaScript Promise
 - Objective: The task is the assignment is as follows:
     1. Create an IIFE function that contains an array and firstElement variable. Assign the 1st element of the array to firstElement.
     2. Create another function called "two" and it should be called in the first function. Calculate the sum of the array elements.
     3. Create a custom promise that contains an array called "img". If the sum in the second function is greater than 30, then the promise should fetch the images equal to the sum and it should be displayed in the browser.
+- Folder Name: Assignment1
 
-### Task 4: Javascripot Practice Problems
+### Task 4: Javascript Practice Problems
 - Objective: This task consists of 3 programs:
     1. Calculate nCr using recursion: main -> comb -> fact
     2. Store and display all elements of an array using recursion.
     3. Store the Fibonacci Series and find prime nos. Find differences of prime nos and add the differences using recursion.
+- Folder Name: Assignment2
 
 
 

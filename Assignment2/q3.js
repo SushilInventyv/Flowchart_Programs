@@ -1,5 +1,5 @@
 // Store fibonacci Series and find prime nos. Find differences of prime nos and add the differences using recursion. n>1000
-
+console.time("prime");
 var primeNum = [];
 //Fibonacci
 function fibonacci(n) {
@@ -7,21 +7,26 @@ function fibonacci(n) {
     else {
         primeNum = fibonacci(n - 1);
         primeNum.push(primeNum[primeNum.length - 1] + primeNum[primeNum.length - 2]);
-        return primeNum.slice(0, n);
+        return primeNum;
     }
 }
-var n = 1001;
+var n = 50;
 fibonacci(n);
+console.log(fibonacci(n));
 
 //Prime
+
 var prime = primeNum.filter((n) => {
+
     if (n == 1 || n == 0) { return false; }
     for (let i = 2; i <= Math.sqrt(n); i++) {
-        if (n % i === 0) return false;
+        if (n % i == 0) return false;
     }
     return true;
+
 });
 console.log(prime);
+console.timeEnd("prime");
 
 
 //Differences

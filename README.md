@@ -34,6 +34,10 @@ During this training phase, I undertook various tasks and assignments to enhance
     3. Store the Fibonacci Series and find prime nos. Find differences of prime nos and add the differences using recursion.
 - Folder Name: Assignment3
 
+### Task 5: Logic Building in FigJam
+- Objective: The task was to create flowcharts along with programs in Figjam.
+- Link: https://www.figma.com/file/wP9fOwvXdfPexaeTbHmgKM/Logic-Building?type=whiteboard&node-id=0-1&t=lM29qN6R6SASn7L2-0
+
 
 
 

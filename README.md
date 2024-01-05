@@ -43,7 +43,6 @@ During this training phase, I undertook various tasks and assignments to enhance
 - Folder Name: Assignment 5
 - Output:
 ![c1](https://github.com/SushilInventyv/Training_Inventyv/assets/153286178/84a9448f-d536-4201-9ea4-614f64c30c34)
-
 ![c2](https://github.com/SushilInventyv/Training_Inventyv/assets/153286178/e1504e3a-ec1a-4e77-8399-f0c69b49efbb)
 
 

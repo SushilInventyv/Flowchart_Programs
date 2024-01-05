@@ -40,6 +40,12 @@ During this training phase, I undertook various tasks and assignments to enhance
 
 ### Task 6: JavaScript Assignment 5
 - Objective: Develop a program that reads a number. Number should be atleast 4 digit long. Generate all possible permutations and combinations of that number and find prime from that. Compare the prime numbers array with Pascal's Triangle and highlight the prime numbers in the Pascal's Triangle. Create an error ratio list and print it. Also create the list of matched elements and missing elements.
+- Folder Name: Assignment 5
+- Output:
+![c1](https://github.com/SushilInventyv/Training_Inventyv/assets/153286178/84a9448f-d536-4201-9ea4-614f64c30c34)
+
+![c2](https://github.com/SushilInventyv/Training_Inventyv/assets/153286178/e1504e3a-ec1a-4e77-8399-f0c69b49efbb)
+
 
 
 

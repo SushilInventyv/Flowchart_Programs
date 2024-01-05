@@ -7,6 +7,10 @@
 ![filter](https://github.com/SushilInventyv/Training_Inventyv/assets/153286178/7f0c3d60-2d4e-4a0b-a491-0657976b610d)
 ![pascal](https://github.com/SushilInventyv/Training_Inventyv/assets/153286178/0f2a0792-d7d7-4084-bd2d-38cfcf3ce7fe)
 
+### Output
+![c1](https://github.com/SushilInventyv/Training_Inventyv/assets/153286178/71275eac-435a-4c16-885c-e25b633c3a10)
+![c2](https://github.com/SushilInventyv/Training_Inventyv/assets/153286178/10fbc5c0-7730-44d8-8264-0ebacf6dc07d)
+
 ### Explain
 1. The genNums(num) function takes an input num and converts it into an array of numbers using Array.from(String(num), Number). The pnc array is initialized to store the generated numbers. The gen function is defined as a recursive function that takes two arguments, cur and rem. Inside the gen function, the current number cur is interpreted as a string and converted to a number using parseInt. The gen function checks if the interpreted number is not NaN (not a number) and, if it is a number, adds it to the pnc array. The gen function iterates through the rem array and, for each element, creates an updated cur array by adding the current element of rem to the end of cur. The gen function then recursively calls itself with the updated cur and rem arrays. The genNums(num) function calls the gen function with the initial cur array [] and the rem array arr. Finally, the genNums(num) function returns the pnc array, which contains the generated sequence of numbers.
 

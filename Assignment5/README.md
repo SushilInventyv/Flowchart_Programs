@@ -4,6 +4,7 @@
 ### Code
 ![s1](https://github.com/SushilInventyv/Training_Inventyv/assets/153286178/a059526a-3887-4df5-a65c-c41b3ab2ffca)
 ![s2](https://github.com/SushilInventyv/Training_Inventyv/assets/153286178/7e72556a-eeb0-4fb0-aa03-c5532aa05b9e)
+![s4](https://github.com/SushilInventyv/Training_Inventyv/assets/153286178/1044598f-5f90-4edd-9210-25e9f3e3f680)
 ![s3](https://github.com/SushilInventyv/Training_Inventyv/assets/153286178/b3e9fe7b-0c50-483c-85ca-96f210aa39a3)
 
 ### Explain

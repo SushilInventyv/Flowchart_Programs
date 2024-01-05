@@ -38,6 +38,9 @@ During this training phase, I undertook various tasks and assignments to enhance
 - Objective: The task was to create flowcharts along with programs in Figjam.
 - Link: https://www.figma.com/file/wP9fOwvXdfPexaeTbHmgKM/Logic-Building?type=whiteboard&node-id=0-1&t=lM29qN6R6SASn7L2-0
 
+### Task 6: JavaScript Assignment 5
+- Objective: Develop a program that reads a number. Number should be atleast 4 digit long. Generate all possible permutations and combinations of that number and find prime from that. Compare the prime numbers array with Pascal's Triangle and highlight the prime numbers in the Pascal's Triangle. Create an error ratio list and print it. Also create the list of matched elements and missing elements.
+
 
 
 

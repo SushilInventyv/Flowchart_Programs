@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 9",
+      "price": 549,
+      "brand": "Apple",
+      "category": "smartphones"
+    },
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "price": 899,
+      "brand": "Apple",
+      "category": "smartphones"
+    },
+    {
+      "id": 3,
+      "title": "Samsung Universe 9",
+      "price": 1249,
+      "brand": "Samsung",
+      "category": "smartphones"
+    },
+    {
+      "id": 4,
+      "title": "OPPOF19",
+      "price": 280,
+      "brand": "OPPO",
+      "category": "smartphones"
+    },
+    {
+      "id": 5,
+      "title": "Huawei P30",
+      "price": 499,
+      "brand": "Huawei",
+      "category": "smartphones"
+    },
+    {
+      "id": 6,
+      "title": "MacBook Pro",
+      "price": 1749,
+      "brand": "Apple",
+      "category": "laptops"
+    },
+    {
+      "id": 7,
+      "title": "Samsung Galaxy Book",
+      "price": 1499,
+      "brand": "Samsung",
+      "category": "laptops"
+    },
+    {
+      "id": 8,
+      "title": "Microsoft Surface Laptop 4",
+      "price": 1499,
+      "brand": "Microsoft Surface",
+      "category": "laptops"
+    },
+    {
+      "id": 9,
+      "title": "ASUS TUF A15 Gaming",
+      "price": 2510,
+      "brand": "Asus",
+      "category": "laptops"
+    },
+    {
+      "id": 10,
+      "title": "HP Pavilion 15-DK1056WM",
+      "price": 1099,
+      "brand": "HP Pavilion",
+      "category": "laptops"
+    },
+    {
+      "id": 11,
+      "title": "perfume Oil",
+      "price": 13,
+      "brand": "Impression of Acqua Di Gio",
+      "category": "fragrances"
+    },
+    {
+      "id": 12,
+      "title": "Brown Perfume",
+      "price": 40,
+      "brand": "Apple",
+      "category": "fragrances"
+    },
+    {
+      "id": 13,
+      "title": "Fog Scent Xpressio Perfume",
+      "price": 13,
+      "brand": "Apple",
+      "category": "fragrances"
+    },
+    {
+      "id": 14,
+      "title": "Non-Alcoholic Concentrated Perfume Oil",
+      "price": 120,
+      "brand": "Apple",
+      "category": "fragrances"
+    },
+    {
+      "id": 15,
+      "title": "iPhone 9",
+      "price": 549,
+      "brand": "Apple",
+      "category": "smartphones"
+    },
+    {
+      "id": 16,
+      "title": "ASUS TUF A15 Gaming",
+      "price": 2510,
+      "brand": "Asus",
+      "category": "laptops"
+    }
+  ]
+}

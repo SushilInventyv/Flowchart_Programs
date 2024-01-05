@@ -117,10 +117,10 @@ function processInput() {
     const inform = document.getElementById('info');
     inform.innerHTML = '';
     inform.innerHTML += '<br><hr>';
-    inform.innerHTML += `<p><b>PnC: </b> ${arr.join(', ')}</p><hr>`;
-    inform.innerHTML += `<p><b>Prime numbers: </b> ${[...primeNumbers].sort((a, b) => a - b).join(', ')}</p><hr>`;
-    inform.innerHTML += `<p><b>Matched numbers: </b> ${matched_elements.join(', ')}</p><hr>`;
-    inform.innerHTML += `<p><b>Missed numbers: </b> ${missed_elements.join(', ')}</p><hr>`;
+    inform.innerHTML += `<p><b>PnC: </b> ${arr.join(', ')}</p>`;
+    inform.innerHTML += `<p><b>Prime numbers: </b> ${[...primeNumbers].sort((a, b) => a - b).join(', ')}</p>`;
+    inform.innerHTML += `<p><b>Matched numbers: </b> ${matched_elements.join(', ')}</p>`;
+    inform.innerHTML += `<p><b>Missed numbers: </b> ${missed_elements.join(', ')}</p>`;
     inform.innerHTML += `<p><b>Error ratio: </b> ${((missed_elements.length / primeNumbers.length) * 100).toFixed(3)} %</p>`;
     inform.innerHTML += '<hr><br>';
 }
